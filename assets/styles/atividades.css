@@ -28,7 +28,7 @@ body {
     height: 150px;
     background-color: rgb(206, 39, 39);
     border-radius: 100%;
-    box-shadow: 0 0 20px rgb(241, 176, 176);
+    box-shadow: 0 0 30px rgb(241, 176, 176);
 }
 
 .b2 {
@@ -36,13 +36,13 @@ body {
     height: 150px;
     background-color: rgb(247, 235, 80);
      border-radius: 100%;
-     box-shadow: 0 0 20px rgb(241, 240, 176);
+     box-shadow: 0 0 30px rgb(241, 240, 176);
 }
 .b3 {
     width: 150px;
     height: 150px;
     background-color: rgb(112, 211, 31);
      border-radius: 100%;
-     box-shadow: 0 0 20px rgb(181, 241, 176);
+     box-shadow: 0 0 30px rgb(181, 241, 176);
 }
 
