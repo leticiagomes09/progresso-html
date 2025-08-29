@@ -1,23 +1,34 @@
 *
 {
-    margin: 0;
-    padding: 0;
+    margin: 20;
+    padding: 30;
     box-sizing: border-box;
 }
 .bola {
-    height: 100vh;
+    height: 600px;
     display: flex;
     flex-direction: column;
     justify-content: center;
+    background-color: black;
+    margin: 50 auto ;
+    width: 200px;
+    border-radius: 50px;
     align-items: center;
     gap: 20px; 
 }
 
+body {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 .b1 {
     width: 150px;
     height: 150px;
     background-color: rgb(206, 39, 39);
     border-radius: 100%;
+    box-shadow: 0 0 20px rgb(241, 176, 176);
 }
 
 .b2 {
@@ -25,11 +36,13 @@
     height: 150px;
     background-color: rgb(247, 235, 80);
      border-radius: 100%;
+     box-shadow: 0 0 20px rgb(241, 240, 176);
 }
 .b3 {
     width: 150px;
     height: 150px;
     background-color: rgb(112, 211, 31);
      border-radius: 100%;
+     box-shadow: 0 0 20px rgb(181, 241, 176);
 }
 
