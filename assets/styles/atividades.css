@@ -4,22 +4,32 @@
     padding: 0;
     box-sizing: border-box;
 }
-.quadrado {
+.bola {
     height: 100vh;
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
     gap: 20px; 
 }
 
-.q1 {
+.b1 {
     width: 150px;
     height: 150px;
-    background-color: rgb(224, 162, 248);
+    background-color: rgb(206, 39, 39);
+    border-radius: 100%;
 }
 
-.q2 {
+.b2 {
     width: 150px;
     height: 150px;
-    background-color: rgb(248, 162, 222);
+    background-color: rgb(247, 235, 80);
+     border-radius: 100%;
 }
+.b3 {
+    width: 150px;
+    height: 150px;
+    background-color: rgb(112, 211, 31);
+     border-radius: 100%;
+}
+
